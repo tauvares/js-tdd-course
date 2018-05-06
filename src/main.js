@@ -3,7 +3,7 @@ const b = 2;
 
 const c = 'udsgdsgfdsgfdsgfdsfdgsoupyhersu nser hruhtueshtiuseirthiusonuirnhoiusnhiumreuithmsuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu';
 
-function sum(){
+function sum() {
   return a + b + c;
 }
 sum();
